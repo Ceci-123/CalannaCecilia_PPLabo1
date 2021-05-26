@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1622034308 source:c:\users\user\desktop\laboratorio\moto.c
+	"moto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622034058 c:\users\user\desktop\laboratorio\moto.h
+	"color.h"
+	"fecha.h"
+	"tiposdemoto.h"
+	"validaciones.h"
+	"cliente.h"
+
+1622035690 source:c:\users\user\desktop\laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"servicios.h"
+	"trabajos.h"
+	"informes.h"
+	"cliente.h"
+
+1621813809 source:c:\users\user\desktop\laboratorio\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621813813 c:\users\user\desktop\laboratorio\color.h
+
+1621812675 source:c:\users\user\desktop\laboratorio\fecha.c
+	"fecha.h"
+
+1621810472 c:\users\user\desktop\laboratorio\fecha.h
+
+1621813768 c:\users\user\desktop\laboratorio\tiposdemoto.h
+
+1621813700 source:c:\users\user\desktop\laboratorio\tiposdemoto.c
+	"tiposdemoto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621813614 source:c:\users\user\desktop\laboratorio\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1621812475 c:\users\user\desktop\laboratorio\servicios.h
+
+1621812711 c:\users\user\desktop\laboratorio\validaciones.h
+
+1621812799 source:c:\users\user\desktop\laboratorio\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622034040 c:\users\user\desktop\laboratorio\trabajos.h
+	"fecha.h"
+	"servicios.h"
+	"moto.h"
+	"color.h"
+	"tiposdemoto.h"
+
+1622034156 source:c:\users\user\desktop\laboratorio\trabajos.c
+	"trabajos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622030798 source:c:\users\user\desktop\laboratorio\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622030750 c:\users\user\desktop\laboratorio\cliente.h
+
+1622035250 source:c:\users\user\desktop\laboratorio\informes.c
+	"informes.h"
+	"moto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622035629 c:\users\user\desktop\laboratorio\informes.h
+	"moto.h"
+	"cliente.h"
+	"trabajos.h"
+
